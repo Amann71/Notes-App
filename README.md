@@ -1,32 +1,32 @@
 Notes App
 The Notes App is a versatile, user-friendly application designed to help you manage, organize, and keep track of your thoughts, tasks, and ideas. With its clean interface and essential features, it’s the perfect tool for staying organized in your daily life.
 
-📋 Features
-📝 Create Notes
+Features
+Create Notes
 
 Easily add new notes using a simple, intuitive interface.
 Include titles and descriptions for better organization.
-✏️ Edit Notes
+Edit Notes
 
 Modify your existing notes at any time.
 Edit both the title and content with ease.
-🗑️ Delete Notes
+Delete Notes
 
 Remove notes that are no longer needed with a single click.
 Confirm before deletion to prevent accidental loss of data.
-🔍 Search Notes
+Search Notes
 
 Quickly find notes by entering keywords or phrases in the search bar.
 Search results are updated in real-time as you type.
-🏷️ Categorize Notes
+Categorize Notes
 
 Organize notes by assigning categories or tags.
 Filter notes by category to focus on specific topics.
-💻 Responsive Design
+Responsive Design
 
 The app is fully responsive, ensuring a seamless experience on desktops, tablets, and mobile devices.
 Access your notes anytime, anywhere.
-🚀 Getting Started
+Getting Started
 Prerequisites
 Node.js: Ensure you have Node.js installed. It’s required to run the app locally.
 Git: Install Git for version control.
@@ -62,7 +62,7 @@ arduino
 Copy code
 http://localhost:3000
 Start creating and managing your notes!
-📚 Usage
+Usage
 Adding a Note
 
 Click on the "Add Note" button.
@@ -84,7 +84,7 @@ Categorizing Notes
 
 Assign tags or categories to your notes for better organization.
 Use the filter options to view notes from specific categories.
-🛠️ Contributing
+Contributing
 We welcome contributions! If you have ideas for new features, bug fixes, or improvements, feel free to contribute.
 
 How to Contribute
@@ -118,7 +118,7 @@ Submit a Pull Request
 Go to your repository on GitHub and click "New Pull Request".
 Provide a detailed description of your changes.
 
-🙏 Acknowledgments
+Acknowledgments
 Open-Source Libraries
 This app utilizes various open-source libraries. We are grateful for the contributions made by the open-source community.
 Community Contributions
