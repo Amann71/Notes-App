@@ -5,7 +5,7 @@ Notes App
 Notes App
 Welcome to the Notes App! This application allows users to create, manage, and organize their notes efficiently. Whether you need to jot down quick thoughts, detailed plans, or anything in between, the Notes App is designed to help you stay organized.
 
-Features
+**Features
 Create Notes: Add new notes quickly and easily.
 Edit Notes: Modify existing notes to keep them up to date.
 Delete Notes: Remove notes that are no longer needed.
@@ -39,7 +39,7 @@ Copy code
 npm start
 Open your browser and go to http://localhost:3000 to see the app in action.
 
-Usage
+**Usage
 Creating a Note: Click on the "Add Note" button, enter your content, and save.
 Editing a Note: Click on a note, edit the content, and save the changes.
 Deleting a Note: Click the delete icon on a note to remove it from your list.
@@ -47,7 +47,7 @@ Searching for Notes: Use the search bar to find specific notes by title or conte
 Contributing
 Contributions are welcome! If you have any improvements or suggestions, feel free to fork the repository and submit a pull request.
 
-Steps to Contribute:
+**Steps to Contribute:
 Fork the repository.
 Create a new branch for your feature or bugfix.
 Make your changes.
@@ -56,5 +56,5 @@ Push your branch to your forked repository.
 Submit a pull request to the main branch.
 
 
-Acknowledgments
+**Acknowledgments
 Thanks to the open-source community for various libraries and tools used in this project.
