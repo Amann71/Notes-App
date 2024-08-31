@@ -1,4 +1,8 @@
 Notes App
+
+
+
+Notes App
 The Notes App is a versatile, user-friendly application designed to help you manage, organize, and keep track of your thoughts, tasks, and ideas. With its clean interface and essential features, it’s the perfect tool for staying organized in your daily life.
 
 Features
